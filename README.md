@@ -1,5 +1,5 @@
 ## Análise de Câncer com Streamlit e ML
-Com a interface web que o Streamlit nós fornece, foi possível de inserir os dados do paciente de maneira dinâmica. 
+Com os recursos que a biblioteca Streamlit nós fornece, foi possível de inserir os dados dos pacientes de maneira dinâmica. 
 
 ## O que é Streamlit?
 Streamlit é uma estrutura de aplicativo de código aberto na linguagem Python. Ele nos ajuda a criar aplicativos da web para ciência de dados e aprendizado de máquina em pouco tempo. É compatível com as principais bibliotecas Python, como scikit-learn, Keras, PyTorch, SymPy (latex), NumPy, pandas, Matplotlib etc. Com o Streamlit, nenhum retorno de chamada é necessário, pois os widgets são tratados como variáveis. O cache de dados simplifica e acelera os pipelines de computação. O Streamlit observa alterações nas atualizações do repositório Git vinculado e o aplicativo será implantado automaticamente no link compartilhado.
